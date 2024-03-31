@@ -29,3 +29,6 @@ q l c m k ' f u o y
 n r s t w p h e a i /
 j x z g v b d ; , .
 ```
+
+### Contact
+If you have any questions about Pine V4 or alt layouts in general, feel free to join the [discord server](https://discord.gg/RuhfchQC).
