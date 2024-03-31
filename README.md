@@ -9,9 +9,8 @@ The main difference between V3 and V4 is that V4 flattens out the left hand by r
 
 ### Design
 Pine V4 was created using a mix of generation and hand-optimization. It was balanced for various stats:
-- low SFB
-- low SFS
-- low LSB
+- low same-finger use
+- low lateral stretches
 - low scissors
 - low redirects
 
