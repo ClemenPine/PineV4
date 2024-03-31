@@ -8,7 +8,7 @@ This is the fourth version in the Pine layout series. After a long hiatus from t
 The main difference between V3 and V4 is that V4 flattens out the left hand by removing the RN stack. I use a dynamic typing style and I found that I would often need to press R with ring instead of middle to burst words effectively at high speeds. This pattern of use required my hand to contort in an uncomfortable way. To fix this pattern, I split up R + N, and moved Y over to the right hand to accommodate the changes. This change results in more natural finger patterns when burst typing.
 
 ### Design
-Pine V4 was created using a mix of generation and hand-optimization. It was balanced for various stats:
+Pine V4 was created using a mix of generation and hand-optimization and has been balanced for various stats:
 - low same-finger use
 - low lateral stretches
 - low scissors
